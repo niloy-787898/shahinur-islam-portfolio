@@ -90,7 +90,7 @@ const Projects = () => {
             PROJECT STARTED FROM HERE
           </div>
           <Project title="valogari" link={`bhalogari.com`} />
-          <Project title="Soleilei" link={`soleil-confiance.co.jp`} />
+          <Project title="soleilei" link={`soleil-confiance.co.jp`} />
 
           {/* ROW 2 */}
           <Project title="sunshine" link={`sunshineinitiatives.com`} />
